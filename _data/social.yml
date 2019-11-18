@@ -31,18 +31,18 @@
   name: zhangtuodd
   url: https://github.com/zhangtuodd
 
-- sitename: 掘金
-  name: 路过的人
-  url: https://juejin.im/user/577cdaded342d30057a1c5e5
-
-- sitename: 博客
-  name: zt
-  url: https://zhangtuodd.github.io
-
-- sitename: 简书
-    name: 路过的人
-    url: https://www.jianshu.com/u/bacf84738fea
-
-- sitename: 豆瓣
-  name: 奋进的猴子
-  url: https://www.douban.com/people/156482281
+#- sitename: 掘金
+#  name: 路过的人
+#  url: https://juejin.im/user/577cdaded342d30057a1c5e5
+#
+#- sitename: 博客
+#  name: zt
+#  url: https://zhangtuodd.github.io
+#
+#- sitename: 简书
+#    name: 路过的人
+#    url: https://www.jianshu.com/u/bacf84738fea
+#
+#- sitename: 豆瓣
+#  name: 奋进的猴子
+#  url: https://www.douban.com/people/156482281
