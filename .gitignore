@@ -3,6 +3,7 @@ _site/
 *.~vsd
 \#*\#
 *~
+.idea
 .DS_Store
 Gemfile.lock
 .vscode/

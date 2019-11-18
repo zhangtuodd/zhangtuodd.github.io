@@ -4,23 +4,23 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: zt博客
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
-timezone: Asia/Shanghai
+description: "Don't think too much,just do it."
+keywords: ZT, ZT Blog, 张拓的博客, zhangtuodd,zhangtuo, 张拓, android, java
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Tuo zhang
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: zhangtuodd
+location: Nanyang, China
+email: zhangtuodd@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: zhangtuodd.github.io
 
 # ---------------- #
 #      Comments    #
@@ -94,18 +94,27 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: mzlogin
-    repo: blog-comments
-    oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+#gitment:
+#    owner: mzlogin
+#    repo: blog-comments
+#    oauth:
+#        client_id: d2e1cbbd298958076462
+#        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
+#gitalk:
+#    owner: mzlogin
+#    repo: blog-comments
+#    clientID: d2e1cbbd298958076462
+#    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+# Gitalk
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+  enable: true    #是否开启Gitalk评论
+  clientID: 0e78fb193f116a6b0bf2                           #生成的clientID
+  clientSecret: 8b7e57a9daeb8e99e683ddde52eda92b59b4974a    #生成的clientSecret
+  repo: zhangtuodd.github.io    #仓库名称
+  owner: zhangtuodd    #github用户名
+  admin: zhangtuodd
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -118,8 +127,7 @@ simple_jekyll_search:
     # 最多显示多少条搜索结果
     limit: 10
 
-# ---------------- #
-#    Analytics     #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 2453886fd1f23f5385e27fe96300059e
