@@ -8,7 +8,7 @@ menu: 关于
 permalink: /about/
 ---
 
-我是ZT，Don't think too much,just do it.。
+我是ZT，Don't think too much,just do it.
 
 立志，努力，怀疑，坚持。
 
