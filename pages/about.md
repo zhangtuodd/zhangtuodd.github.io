@@ -2,15 +2,15 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+keywords: zt, zhangtuo, zhangtuodd
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是ZT，Don't think too much,just do it.。
 
-仰慕「优雅编码的艺术」。
+立志，努力，怀疑，坚持。
 
 坚信熟能生巧，努力改变人生。
 
