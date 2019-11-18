@@ -42,6 +42,9 @@
 #- sitename: 简书
 #    name: 路过的人
 #    url: https://www.jianshu.com/u/bacf84738fea
+- sitename: 简书
+    name: 路过的人
+    url: https://www.jianshu.com/u/bacf84738fea
 
 - sitename: 豆瓣
   name: 奋进的猴子
