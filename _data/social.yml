@@ -35,9 +35,9 @@
   name: 路过的人
   url: https://juejin.im/user/577cdaded342d30057a1c5e5
 
-- sitename: 博客
-  name: zt
-  url: https://zhangtuodd.github.io
+#- sitename: 博客
+#  name: zt
+#  url: https://zhangtuodd.github.io
 
 - sitename: 简书
     name: 路过的人
